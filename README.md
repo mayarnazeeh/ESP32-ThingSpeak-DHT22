@@ -109,13 +109,15 @@ The **University ID (12323342)** is included both in the HTTP request (`status` 
 ### Serial Monitor
 Shows Wi-Fi connection, sensor readings, University ID, and `HTTP 200` responses with increasing entry IDs.
 
-![Serial Monitor](screenshots/serial_monitor.png)
+![Serial Monitor](serial_monitor.png)
+
+![Serial Monitor 2](serial_monitor_2.png)
 
 ### ThingSpeak Channel Page
-![Channel page](screenshots/channel_page.png)
+![Channel page](channel_page.png)
 
 ### Live Temperature Graph
-![Temperature graph](screenshots/temperature_graph.png)
+![Temperature graph](temperature_graph.png)
 
 ### Live Humidity Graph
-![Humidity graph](screenshots/humidity_graph.png)
+![Humidity graph](humidity_graph.png)
