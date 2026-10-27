@@ -31,7 +31,7 @@ The **University ID (12323342)** is included both in the HTTP request (`status` 
 | | |
 |---|---|
 | **ThingSpeak Public Channel** | https://thingspeak.mathworks.com/channels/3551735 |
-| **Wokwi Simulation** | WOKWI_LINK_HERE |
+| **Wokwi Simulation** | (https://wokwi.com/projects/478959834785501185) |
 
 ### ThingSpeak Channel Setup
 - **Channel name:** `Mayar_Othman_12323342`
