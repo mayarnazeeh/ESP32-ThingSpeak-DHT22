@@ -66,7 +66,7 @@ The **University ID (12323342)** is included both in the HTTP request (`status` 
  └────────┘          └──────────┘
 ```
 
-![Wokwi circuit](screenshots/wokwi_circuit.png)
+![Wokwi circuit](wokwi_circuit.png)
 
 ---
 
